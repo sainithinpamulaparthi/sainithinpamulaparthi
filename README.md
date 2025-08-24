@@ -42,7 +42,7 @@ Here are some of the projects I'm proud of:
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **[Phishing URL Detection Using Machine Learning]([https://github.com/sainithinpamulaparthi/phishshield](https://github.com/sainithinpamulaparthi/Phishing-URL-Detection-Using-Machine-Learning))** | A machine learning-based system that detects phishing URLs to enhance user safety online. | `Python` `Scikit-learn` `Tkinter` |
+| **[Phishing URL Detection Using Machine Learning](https://github.com/sainithinpamulaparthi/Phishing-URL-Detection-Using-Machine-Learning)** | A machine learning-based system that detects phishing URLs to enhance user safety online. | `Python` `Scikit-learn` `Tkinter` |
 | **[QR Code Generator](https://github.com/sainithinpamulaparthi/qr-code-generator)** | A simple GUI tool to generate QR codes from text or URLs. | `Python` `Tkinter` |
 
 

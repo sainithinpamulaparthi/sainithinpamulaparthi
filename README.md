@@ -60,7 +60,7 @@ Here are some of the projects I'm proud of:
 |--------|-------------|--------------|
 | **[Phishing URL Detection Using Machine Learning](https://github.com/sainithinpamulaparthi/Phishing-URL-Detection-Using-Machine-Learning)** | A machine learning-based system that detects phishing URLs to enhance user safety online. | `Python` `Scikit-learn` `Tkinter` |
 | **[QR Code Generator](https://github.com/sainithinpamulaparthi/qr-code-generator)** | A simple GUI tool to generate QR codes from text or URLs. | `Python` `Tkinter` |
-| **[GFG Problem Solving Repository](https://github.com/sainithinpamulaparthi/GFG-Problem-Solving)** | My daily practice solutions for DSA & algorithms from GeeksforGeeks. | `Java` `DSA` |
+| **[GFG Problem Solving](https://github.com/sainithinpamulaparthi/GFG-problem_solving)** | My daily practice solutions for DSA & algorithms from GeeksforGeeks. | `Java` `DSA` |
 
 ---
 

@@ -45,9 +45,8 @@ I'm a passionate Computer Science Engineering (Data Science) student with a stro
 
 ## 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sainithinpamulaparthi&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sainithinpamulaparthi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 📂 My Projects  

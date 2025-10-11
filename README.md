@@ -65,6 +65,15 @@ Here are some of the projects I'm proud of:
 ---
 
 ## 🔗 Connect with Me  
-
 <p align="left">
-<a href="https://linkedin.com/in/sainithinpamulaparthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="li
+<a href="https://linkedin.com/in/sainithinpamulaparthi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainithinpamulaparthi" height="30" width="40" />
+</a>
+<a href="https://github.com/sainithinpamulaparthi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sainithinpamulaparthi" height="30" width="40" />
+</a>
+<a href="mailto:sainithinpamulaparthi@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
+</a>
+</p>
+

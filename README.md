@@ -26,9 +26,10 @@ I'm a passionate Computer Science Engineering (Data Science) student with a stro
 
 ## 📈 GitHub Stats  
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainithinpamulaparthi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sainithinpamulaparthi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sainithinpamulaparthi&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sainithinpamulaparthi&layout=compact&theme=radical" alt="Languages" />
+</p>
 
 ---
 

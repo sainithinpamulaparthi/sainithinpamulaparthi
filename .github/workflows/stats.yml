@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate Streak and Stats
-        uses: stats-organization/github-readme-stats-action@master
+        uses: stats-organization/github-readme-stats-action@main
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           user: sainithinpamulaparthi

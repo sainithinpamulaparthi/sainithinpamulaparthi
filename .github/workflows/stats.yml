@@ -9,7 +9,7 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@master
       - name: Generate Streak and Stats
         uses: stats-organization/github-readme-stats-action@main
         with:
